@@ -1,4 +1,4 @@
-provider "" {
+provider "test" {
   
 }
 resource "aws_vpc" "test" {
